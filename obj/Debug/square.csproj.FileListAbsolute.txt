@@ -1,0 +1,7 @@
+C:\Users\beriy\source\repos\square\bin\Debug\square.exe.config
+C:\Users\beriy\source\repos\square\bin\Debug\square.exe
+C:\Users\beriy\source\repos\square\bin\Debug\square.pdb
+C:\Users\beriy\source\repos\square\obj\Debug\square.csprojAssemblyReference.cache
+C:\Users\beriy\source\repos\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+C:\Users\beriy\source\repos\square\obj\Debug\square.exe
+C:\Users\beriy\source\repos\square\obj\Debug\square.pdb
