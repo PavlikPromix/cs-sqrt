@@ -4,3 +4,4 @@ C:\Users\beriy\source\repos\square\bin\Release\square.pdb
 C:\Users\beriy\source\repos\square\obj\Release\square.csproj.CoreCompileInputs.cache
 C:\Users\beriy\source\repos\square\obj\Release\square.exe
 C:\Users\beriy\source\repos\square\obj\Release\square.pdb
+C:\Users\beriy\source\repos\square\obj\Release\square.csprojAssemblyReference.cache
